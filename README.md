@@ -1,1 +1,21 @@
-# okimoki
+# 개발 환경 구축
+
+1. **Slack 계정 가입**
+   1. gmail을 만든다. okimoki.yoonsg@gamil.com
+   2. 이후 서지훈 책임님께 요청하면 위 메일로 초대장이 도착한다.
+   3. 확인 방법
+      1. okimoki.slack.com에 접속되는지 확인한다.
+      2. 사내에서 okimoki.slack.com이 막혀있으므로, https://app.slack.com/client/TM27BHDU0/CM94XQ7V3/details/members 로 접속한다.
+   
+2. **Github 접근**
+   1. github 접근을 위한 ssh private key 요청
+   2. C:\사용자\yoonsg\밑에 ".ssh" 폴더를 만들어 config.zip 압축을 푼다.
+   3. 확인 방법
+      1. github 계정(project 계정)으로 접속 후
+      2. git clone 명령을 통해 프로젝트 소스가 다운로드 되는지 확인한다.
+
+3. **Aws 접근**
+   1. credential과 cnofig 정보를 C:\사용자\yoonsg\밑에 ".aws" 폴더를 만들어 넣어 놓는다. 
+   2. 로컬의 소스를 빌드하고, aws에서 image 정보를 가져와 소스만 변경하여 로컬에서 확인하는 절차??
+   3. 확인 방법
+      1. sts > Windows > Show View > Other... > Gradle Tasks > Show all tasks > localRunContainer task 실행
