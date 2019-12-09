@@ -1,0 +1,14 @@
+# GitHub 계정 구성
+
+1. Organization을 통해 구성
+   1. team을 생성하여 그룹으로 권한 관리를 할 수 있다.
+   2. 기존 개인이 운영하던 환경을 organization으로 이관 시에 repository 저장소 위치 변경은 없다.
+      1. 다만, 기존 배포하던 case에 새로운 인증 과정이 추가될 수 있다. (계정 마다 부여 받은 권한이 변경도리 수 있으므로..)
+
+   3. 가격 정책
+      1. https://github.com/pricing
+      2. Team                                   | Enterprise
+         ---------------------------------------|----------------------------
+         $9 per user / month                    | $21 per user / month
+         10,000 total Action minutes/month      | 50,000 total Action minutes/month
+         2GB of GitHub Packages storage         | 50GB of GitHub Packages storage
