@@ -8,9 +8,10 @@
 
    3. 가격 정책
       1. https://github.com/pricing
-      2. Team                                   | Enterprise
-         ---------------------------------------|----------------------------
-         $9 per user / month                    | $21 per user / month
-         10,000 total Action minutes/month      | 50,000 total Action minutes/month
-         2GB of GitHub Packages storage         | 50GB of GitHub Packages storage
-
+      2. |Team                                   | Enterprise|
+         |---------------------------------------|----------------------------|
+         |Unlimited public repositories|=|
+         |Unlimited private repositories|=|
+         |$9 per user / month                    | $21 per user / month|
+         |10,000 total Action minutes/month      | 50,000 total Action minutes/month|
+         |2GB of GitHub Packages storage         | 50GB of GitHub Packages storage|
