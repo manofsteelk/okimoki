@@ -15,3 +15,13 @@
          |**$9 per user / month**                    |**$21 per user / month**|
          |**10,000 total Action minutes/month**|**50,000 total Action minutes/month**|
          |2GB of GitHub Packages storage         | 50GB of GitHub Packages storage|
+
+   4. 구성
+      1. organization 생성
+      2. plan(opensource / team / enterprise) 선택
+      3. team 생성
+         1.  admin, developers
+         2.  team에 멤버 추가
+      4. import repository(기존에 존재하는 repository를 새로 organization에 import한다.)
+         1. 새로운 repository는 새로운 url로 변경되며, 기존 권한 read only access만 남는다.
+      5. team에 repository를 추가해준다.
